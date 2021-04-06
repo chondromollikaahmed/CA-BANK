@@ -1,0 +1,9 @@
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7SYm4pc/ca-bank-small.png" alt="ca-bank-small" border="0"></a>
+
+<a href="https://ibb.co/pJP8bMZ"><img src="https://i.ibb.co/bz3ZQCL/caopening.gif" alt="caopening" border="0"></a>
+
+DEFAULT CURRENT_TIMESTAMP;
+
+
+
+SplashScreen-Image:ca\bank\resources\gif\caopening.gif
